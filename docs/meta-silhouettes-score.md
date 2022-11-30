@@ -1,4 +1,4 @@
-# meta-silhouettes
+# meta-silhouettes-score
 
 [Назад к списку компонентов](../README.md)
 
