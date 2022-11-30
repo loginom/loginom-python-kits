@@ -1,6 +1,16 @@
 # История изменений
 
-## 2.0.0 Loginom 6.5.1^ (Актуальная версия)
+## 2.0.1 Loginom 6.5.4^ (Актуальная версия)
+
+### **Новый функционал**
+
+* Компонент **[meta-silhouettes-score](./docs/meta-silhouettes-score.md)**
+
+### **Изменения**
+
+* Обновление компонента **[meta-silhouettes](./docs/meta-silhouettes.md)**
+
+## 2.0.0 Loginom 6.5.1^
 
 ### **Новый функционал**
 
@@ -21,9 +31,9 @@
 * Компонент **[model.fitter](./docs/model-fitter.md)**
 * Компонент **[simple.fitter](./docs/simple-fitter.md)**
 * Компонент **[c.metrics](./docs/classification-metrics.md)**
-* Компонент **[roc_auc_score](./docs/roc_auc_score.md)**
-* Компонент **[average_precision_score](./docs/average_precision_score.md)**
-* Компонент **[silhouette_score](./docs/silhouette_score.md)**
+* Компонент **[roc_auc_score](./docs/roc-auc-score.md)**
+* Компонент **[average_precision_score](./docs/average-precision-score.md)**
+* Компонент **[silhouette_score](./docs/silhouette-score.md)**
 
 #### Библиотека **Loginom OptBinning Kit**
 
@@ -44,5 +54,5 @@
 * Компонент **[preprocessing.Scaler](./docs/preprocessing-scaler.md)**
 * Компонент **[meta-silhouettes](./docs/meta-silhouettes.md)**
 * Компонент **[meta-scaling](./docs/metascaling.md)**
-* Компонент **[template.fitter](./docs/template.fitter.md)**
-* Компонент **[template.scorer](./docs/template.scorer.md)**
+* Компонент **[template.fitter](./docs/template-fitter.md)**
+* Компонент **[template.scorer](./docs/template-scorer.md)**

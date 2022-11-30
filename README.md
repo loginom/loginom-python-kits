@@ -1,7 +1,7 @@
 # Loginom Python Kits
 
-* Версия: 2.0.0
-* Проверено: Все редакции Loginom 6.5.1
+* Версия: 2.0.1
+* Проверено: Все редакции Loginom 6.5.4
 
 Набор библиотек компонентов для работы с Python. Область применения библиотек:
 
@@ -43,6 +43,8 @@
 
 1. `loginom_sklearn_meta.lgp` — пакет с метакомпонентами библиотеки Sklearn Kit. Содержит готовые настроенные компоненты с параметрами для обучения ML-модели компонентом **model.fitter**, а также другие метакомпоненты.
 
+> **Требования:** библиотека **Loginom Silver Kit** ([скачать на GitHub](https://github.com/loginom/loginom-silver-kit)). Версия не ниже 2.0.6.
+
 ## Cписок компонентов библиотеки **Loginom Python Kit**
 
 ### **utils**
@@ -69,9 +71,9 @@
 ### **sklearn.metrics**
 
 * [c.metrics](./docs/classification-metrics.md)
-* [roc_auc_score](./docs/roc_auc_score.md)
-* [average_precision_score](./docs/average_precision_score.md)
-* [silhouette_score](./docs/silhouette_score.md)
+* [roc_auc_score](./docs/roc-auc-score.md)
+* [average_precision_score](./docs/average-precision-score.md)
+* [silhouette_score](./docs/silhouette-score.md)
 
 ## Cписок компонентов библиотеки **Loginom OptBinning Kit**
 
