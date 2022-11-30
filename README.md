@@ -96,6 +96,7 @@
 * [preprocessing.Scaler](./docs/preprocessing-scaler.md)
 * [meta-scaling](./docs/metascaling.md)
 * [meta-silhouettes](./docs/meta-silhouettes.md)
+* [meta-silhouettes-score](./docs/meta-silhouettes-score.md)
 * [template.fitter](./docs/template-fitter.md)
 * [template.scorer](./docs/template-scorer.md)
 
