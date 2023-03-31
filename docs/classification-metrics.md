@@ -5,7 +5,7 @@
 ## Назначение
 
 Компонент рассчитывает четыре метрики на основе прогнозов произвольного классификатора: precision, recall, f1_score, accuracy, tn, fp, fn, tp.
-Используется модуль [sklearn.metrics](https://scikit-learn.org/stable/modules/model_evaluation.html). Также компонент требует Python-библиотеку **numpy**.
+Используется модуль [sklearn.metrics](https://scikit-learn.org/stable/modules/model_evaluation.html). 
 
 ## Входные порты
 
@@ -21,10 +21,13 @@
 ### Переменные в порте "Входные переменные"
 
 | №  | Метка     | Тип                              | Значение по умолчанию  |
-|:---|:----------|:---------------------------------|:----------|
-| 1  | average   | ![](./img/string.svg) Строковый  | binary    |
+|:---|:----------|:---------------------------------|:-----------------------|
+| 1  | average   | ![](./img/string.svg) Строковый  | binary                 |
+| 2  | pos_label | ![](./img/integer.svg) Целый     | 1                      |
 
-1. **average** — значение параметра метода [precision_recall_fscore_support](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.precision_recall_fscore_support.html).
+1. **average** — значение параметра метода [precision_recall_fscore_support](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.precision_recall_fscore_support.html);
+
+2. **pos_label** — значение, которое принимает событие, параметр в методе `precision_recall_fscore_support`;
 
 ## Выходные порты
 

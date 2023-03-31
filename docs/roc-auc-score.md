@@ -4,7 +4,7 @@
 
 ## Назначение
 
-Расчет метрики ROC-AUC (площадь под ROC-кривой) для случая бинарной переменной. Используется метод `roc_auc_score` из модуля **sklearn.metrics**.
+Расчет метрики ROC-AUC (площадь под ROC-кривой) для случая бинарной переменной. Используется метод `roc_auc_score` из модуля [sklearn.metrics](https://scikit-learn.org/stable/modules/classes.html#module-sklearn.metrics).
 
 ## Входные порты
 

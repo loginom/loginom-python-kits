@@ -1,6 +1,53 @@
 # История изменений
 
-## 2.0.1 Loginom 6.5.4^ (Актуальная версия)
+## 3.0.0 Loginom 7.0.2^ (Актуальная версия)
+
+### **Новый функционал**
+
+#### Библиотека **Loginom Pandas Kit**
+
+* Компонент **[corr](./docs/corr.md)**
+
+#### Библиотека **Loginom Category Kit**
+
+* Компонент **[Загрузить config](./docs/load-config.md)**
+* Компонент **[Сохранить config](./docs/save-config.md)**
+* Компонент **[BaseN Encoder](./docs/basen-encoder.md)**
+* Компонент **[Binary Encoder](./docs/binary-encoder.md)**
+* Компонент **[CatBoost Encoder](./docs/catboost-encoder.md)**
+* Компонент **[Count Encoder](./docs/count-encoder.md)**
+* Компонент **[Helmert Encoder](./docs/helmert-encoder.md)**
+* Компонент **[Leave-One-Out Encoder](./docs/leave-one-out-encoder.md)**
+* Компонент **[OneHot Encoder](./docs/onehot-encoder.md)**
+* Компонент **[Ordinal Encoder](./docs/ordinal-encoder.md)**
+* Компонент **[Polynomial Encoder](./docs/polynomial-encoder.md)**
+* Компонент **[Quantile Encoder](./docs/quantile-encoder.md)**
+* Компонент **[Target Encoder](./docs/target-encoder.md)**
+* Компонент **[WOE Encoder](./docs/woe-encoder.md)**
+
+#### Библиотека **Loginom Sklearn Kit**
+
+* Компонент **[clustering metrics](./docs/clustering-metrics.md)**
+* Компонент **[r2_score](./docs/r2-score.md)**
+* Компонент **[regression metrics](./docs/regression-metrics.md)**
+* Компонент **[roc_curve](./docs/roc-curve.md)**
+* Компонент **[silhouette_samples](./docs/silhouette-samples.md)**
+* Компонент **[model.properties](./docs/model-properties.md)**
+
+#### Пакет **Loginom Sklearn Meta**
+
+* Компонент **[ensemble.RandomForestRegressor](./docs/ensemble-random-forest-regressor.md)**
+* Компонент **[ensemble.ExtraTreesRegressor](./docs/ensemble-extra-trees-regressor.md)**
+* Компонент **[meta-feature-importances](./docs/meta-feature-importances.md)**
+
+### **Изменения**
+
+#### Пакет **Loginom Sklearn Meta**
+
+* Обновление компонента **[meta-silhouettes](./docs/meta-silhouettes.md)**
+* Обновление компонента **[meta-silhouettes-score](./docs/meta-silhouettes-score.md)**
+
+## 2.0.1 Loginom 6.5.4^
 
 ### **Новый функционал**
 
