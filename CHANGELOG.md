@@ -1,6 +1,15 @@
 # История изменений
 
-## 3.0.0 Loginom 7.0.2^ (Актуальная версия)
+## 3.1.0 Loginom 7.1.0^ (Актуальная версия)
+
+### **Изменения**
+
+#### Библиотека **Loginom Sklearn Kit**
+
+* Компонент **[model.fitter](./docs/model-fitter.md)**
+* Компонент **[classification metrics](./docs/classification-metrics.md)**
+
+## 3.0.0 Loginom 7.0.2^
 
 ### **Новый функционал**
 

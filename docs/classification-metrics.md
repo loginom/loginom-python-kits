@@ -4,7 +4,7 @@
 
 ## Назначение
 
-Компонент рассчитывает четыре метрики на основе прогнозов произвольного классификатора: precision, recall, f1_score, accuracy, tn, fp, fn, tp.
+Компонент рассчитывает несколько важных метрик на основе прогнозов произвольного бинарного классификатора: precision, recall, f1_score, fbeta_score, accuracy, tn, fp, fn, tp.
 Используется модуль [sklearn.metrics](https://scikit-learn.org/stable/modules/model_evaluation.html). 
 
 ## Входные порты
@@ -24,10 +24,13 @@
 |:---|:----------|:---------------------------------|:-----------------------|
 | 1  | average   | ![](./img/string.svg) Строковый  | binary                 |
 | 2  | pos_label | ![](./img/integer.svg) Целый     | 1                      |
+| 3  | beta      | ![](./img/integer.svg) Целый     | 1                      |
 
 1. **average** — значение параметра метода [precision_recall_fscore_support](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.precision_recall_fscore_support.html);
 
 2. **pos_label** — значение, которое принимает событие, параметр в методе `precision_recall_fscore_support`;
+
+3. **beta** — значениедля параметра в методе `fbeta_score`;
 
 ## Выходные порты
 
@@ -41,3 +44,4 @@
 |:------------------|:---------------------------------------|:------------------|
 | Метрика           | ![](./img/string.svg) Строковый        |                   |
 | Значение          | ![](./img/realnumber.svg) Вещественный |                   |
+
