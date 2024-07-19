@@ -1,6 +1,74 @@
 # История изменений
 
-## 3.1.0 Loginom 7.1.0^ (Актуальная версия)
+## 3.2.0 Loginom 7.2.1^ (Актуальная версия)
+
+### **Новый функционал**
+
+#### Библиотека **Loginom Kaggle Kit**
+
+* Компонент **[Скачать датасет](./docs/kaggle-import.md)**
+* Компонент **[Отправить submit](./docs/kaggle-export.md)**
+* Компонент **[Получить оценки](./docs/kaggle-score.md)**
+* Компонент **[Доска лидеров](./docs/kaggle-leaderboard.md)**
+
+### **Изменения**
+
+#### Библиотека **Loginom Python Kit**
+
+* Компонент **[Редкие значения](./docs/rare-values.md)**
+* Компонент **[Редкие значения (прогон)](./docs/rare-new-values.md)**
+
+#### Библиотека **Loginom Pandas Kit**
+
+* Компонент **[corr](./docs/corr.md)**
+* Компонент **[melt](./docs/melt.md)**
+* Компонент **[pivot_table](./docs/pivot-table.md)**
+* Компонент **[get_dummies](./docs/get-dummies.md)**
+
+#### Библиотека **Loginom Sklearn Kit**
+
+* Компонент **[simple.fitter](./docs/simple-fitter.md)**
+* Компонент **[model.fitter](./docs/model-fitter.md)**
+* Компонент **[model.scorer](./docs/model-scorer.md)**
+* Компонент **[model.properties](./docs/model-properties.md)**
+* Компонент **[classification metrics](./docs/classification-metrics.md)**
+* Компонент **[clustering metrics](./docs/clustering-metrics.md)**
+* Компонент **[regression metrics](./docs/regression-metrics.md)**
+* Компонент **[roc_auc_score](./docs/roc-auc-score.md)**
+* Компонент **[roc_curve](./docs/roc-curve.md)**
+* Компонент **[r2_score](./docs/r2-score.md)**
+* Компонент **[average_precision_score](./docs/average-precision-score.md)**
+* Компонент **[silhouette_score](./docs/silhouette-score.md)**
+* Компонент **[silhouette_samples](./docs/silhouette-samples.md)**
+
+#### Библиотека **Loginom OptBinning Kit**
+
+* Компонент **[binning_process.fitter](./docs/binning-process-fitter.md)**
+* Компонент **[binning_process.scorer](./docs/binning-process-scorer.md)**
+
+#### Библиотека **Loginom Category Kit**
+
+* Компонент **[Загрузить конфиг](./docs/load-config.md)**
+* Компонент **[Сохранить конфиг](./docs/save-config.md)**
+* Компонент **[BaseN Encoder](./docs/basen-encoder.md)**
+* Компонент **[Binary Encoder](./docs/binary-encoder.md)**
+* Компонент **[CatBoost Encoder](./docs/catboost-encoder.md)**
+* Компонент **[Count Encoder](./docs/count-encoder.md)**
+* Компонент **[Helmert Encoder](./docs/helmert-encoder.md)**
+* Компонент **[Leave-One-Out Encoder](./docs/leave-one-out-encoder.md)**
+* Компонент **[OneHot Encoder](./docs/onehot-encoder.md)**
+* Компонент **[Ordinal Encoder](./docs/ordinal-encoder.md)**
+* Компонент **[Polynomial Encoder](./docs/polynomial-encoder.md)**
+* Компонент **[Quantile Encoder](./docs/quantile-encoder.md)**
+* Компонент **[Target Encoder](./docs/target-encoder.md)**
+* Компонент **[WOE Encoder](./docs/woe-encoder.md)**
+
+#### Пакет **Loginom Sklearn Meta**
+
+* Компонент **[template.fitter](./docs/template-fitter.md)**
+* Компонент **[template.scorer](./docs/template-scorer.md)**
+
+## 3.1.0 Loginom 7.1.0^
 
 ### **Изменения**
 

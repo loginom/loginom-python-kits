@@ -1,7 +1,7 @@
 # Loginom Python Kits
 
-* Версия: 3.1.0
-* Проверено: Все редакции Loginom 7.1.0
+* Версия: 3.2.0
+* Проверено: Все редакции Loginom 7.2.1
 
 Набор библиотек компонентов для работы с Python. Область применения библиотек:
 
@@ -52,10 +52,13 @@
 
 >`Внимание!` Библиотека требует установки других python-библиотек определенных версий: numpy, ortools, pandas и другие, а также компонентов Microsoft Visual C++ 14.0. Подробности в документации к OptBinning [здесь](https://github.com/guillermo-navas-palencia/optbinning/blob/master/README.rst).
 
-5. `loginom_category_kit.lgp` — библиотека с компонентами для кодирования категориальных признаков из библиотеки [CategoryEncoders](https://contrib.scikit-learn.org/category_encoders/)
+5. `loginom_category_kit.lgp` — библиотека с компонентами для кодирования категориальных признаков из библиотеки [CategoryEncoders](https://contrib.scikit-learn.org/category_encoders/).
 
 > **Требования:** установленная Python-библиотека Category Encoders версии 2.6.0 и выше.
 
+6. `loginom_kaggle_kit.lgp` — библиотека с компонентами для интеграции с соревнованиями [Kaggle](https://pypi.org/project/kaggle/).
+
+> **Требования:** установленная Python-библиотека Kaggle версии 1.6.14 и выше.
 ## Прочее
 
 1. `loginom_sklearn_meta.lgp` — пакет с метакомпонентами библиотеки Sklearn Kit. Содержит готовые настроенные компоненты с параметрами для обучения ML-модели компонентом **model.fitter**, а также другие метакомпоненты.
@@ -122,6 +125,13 @@
 * [Quantile Encoder](./docs/quantile-encoder.md)
 * [Target Encoder](./docs/target-encoder.md)
 * [WOE Encoder](./docs/woe-encoder.md)
+
+## Cписок компонентов библиотеки **Loginom Kaggle Kit**
+
+* [Скачать датасет](./docs/kaggle-import.md)
+* [Отправить submit](./docs/kaggle-export.md)
+* [Получить оценки](./docs/kaggle-score.md)
+* [Доска лидеров](./docs/kaggle-leaderboard.md)
 
 ## Список производных компонентов пакета **Loginom Sklearn Meta**
 
