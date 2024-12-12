@@ -1,8 +1,48 @@
 # История изменений
 
-## 3.2.0 Loginom 7.2.1^ (Актуальная версия)
+## 3.2.1 Loginom 7.2.3^ (Актуальная версия)
 
 ### **Новый функционал**
+
+#### Библиотека **Loginom Python Kit**
+
+* Компонент **[Таблица в HTML](./docs/table-to-html.md)**
+* Компонент **[Отправка Email (SMTP)](./docs/send-email.md)**
+
+### **Изменения**
+
+#### Библиотека **Loginom Sklearn Kit**
+
+* Компонент **[simple.fitter](./docs/simple-fitter.md)**
+* Компонент **[model.fitter](./docs/model-fitter.md)**
+* Компонент **[model.scorer](./docs/model-scorer.md)**
+
+#### Библиотека **Loginom OptBinning Kit**
+
+* Компонент **[binning_process.fitter](./docs/binning-process-fitter.md)**
+* Компонент **[binning_process.scorer](./docs/binning-process-scorer.md)**
+
+#### Библиотека **Loginom Category Kit**
+
+* Компонент **[BaseN Encoder](./docs/basen-encoder.md)**
+* Компонент **[Binary Encoder](./docs/binary-encoder.md)**
+* Компонент **[CatBoost Encoder](./docs/catboost-encoder.md)**
+* Компонент **[Count Encoder](./docs/count-encoder.md)**
+* Компонент **[Helmert Encoder](./docs/helmert-encoder.md)**
+* Компонент **[Leave-One-Out Encoder](./docs/leave-one-out-encoder.md)**
+* Компонент **[OneHot Encoder](./docs/onehot-encoder.md)**
+* Компонент **[Ordinal Encoder](./docs/ordinal-encoder.md)**
+* Компонент **[Polynomial Encoder](./docs/polynomial-encoder.md)**
+* Компонент **[Quantile Encoder](./docs/quantile-encoder.md)**
+* Компонент **[Target Encoder](./docs/target-encoder.md)**
+* Компонент **[WOE Encoder](./docs/woe-encoder.md)**
+
+#### Библиотека **Loginom Python Kit**
+
+* Компонент **[Редкие значения](./docs/rare-values.md)**
+* Компонент **[Редкие значения (прогон)](./docs/rare-new-values.md)**
+
+## 3.2.0 Loginom 7.2.1^
 
 #### Библиотека **Loginom Kaggle Kit**
 
