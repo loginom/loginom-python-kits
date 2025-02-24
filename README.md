@@ -1,6 +1,6 @@
 # Loginom Python Kits
 
-* Версия: 3.2.1
+* Версия: 3.2.2
 * Проверено: Все редакции Loginom 7.2.3
 
 Набор библиотек компонентов для работы с Python. Область применения библиотек:
@@ -60,6 +60,9 @@
 
 > **Требования:** установленная Python-библиотека Kaggle версии 1.6.14 и выше.
 
+7. `loginom_clearml_kit.lgp` — библиотека с компонентами для интеграции с платформой [ClearML](https://pypi.org/project/clearml/).
+
+> **Требования:** установленная Python-библиотека ClearML версии 1.16.5 и выше.
 ## Прочее
 
 1. `loginom_sklearn_meta.lgp` — пакет с метакомпонентами библиотеки Sklearn Kit. Содержит готовые настроенные компоненты с параметрами для обучения ML-модели компонентом **model.fitter**, а также другие метакомпоненты.
@@ -156,3 +159,31 @@
 * [meta-feature-importances](./docs/meta-feature-importances.md)
 * [template.fitter](./docs/template-fitter.md)
 * [template.scorer](./docs/template-scorer.md)
+
+## Cписок компонентов библиотеки **Loginom ClearML Kit**
+
+### Эксперимент (task)
+
+* [Записать в эксперимент](./docs/save-task.md)
+* [Эксперимент](./docs/task.md)
+* [Environment Variables](./docs/environment-variables.md)
+* [Список экспериментов](./docs/tasks-list.md)
+* [Список датасетов](./docs/datasets-list.md)
+* [Скачать эксперимент](./docs/download-task.md)
+* [Получить артефакт](./docs/get-artifact.md)
+* [Сбор метаданных ML](./docs/ml-metadata.md)
+* [Сбор метаданных ETL](./docs/etl-metadata.md)
+* [Статистика датасетов](./docs/datasets-statistics.md)
+* [Plot.Scatter](./docs/plot-scatter.md)
+* [ETL. Время начала](./docs/etl-start-time.md)
+* [ETL. Подсчет времени](./docs/etl-time-calculation.md)
+
+### Датасет (dataset)
+
+* [Новый проект](./docs/new-project.md)
+* [Датасет](./docs/dataset.md)
+* [Выгрузка в датасет](./docs/export-to-dataset.md)
+* [Получить датасет](./docs/get-dataset.md) 
+
+
+

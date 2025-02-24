@@ -1,6 +1,46 @@
 # История изменений
 
-## 3.2.1 Loginom 7.2.3^ (Актуальная версия)
+## 3.2.2 Loginom 7.2.3^
+
+### **Новый функционал**
+
+#### Библиотека **Loginom Clearml Kit**
+
+* [Записать в эксперимент](./docs/save-task.md)
+* [Эксперимент](./docs/task.md)
+* [Environment Variables](./docs/environment-variables.md)
+* [Список экспериментов](./docs/tasks-list.md)
+* [Список датасетов](./docs/datasets-list.md)
+* [Скачать эксперимент](./docs/download-task.md)
+* [Получить артефакт](./docs/get-artifact.md)
+* [Сбор метаданных ML](./docs/ml-metadata.md)
+* [Сбор метаданных ETL](./docs/etl-metadata.md)
+* [Статистика датасетов](./docs/datasets-statistics.md)
+* [Plot.Scatter](./docs/plot-scatter.md)
+* [ETL. Время начала](./docs/etl-start-time.md)
+* [ETL. Подсчет времени](./docs/etl-time-calculation.md)
+* [Новый проект](./docs/new-project.md)
+* [Датасет](./docs/dataset.md)
+* [Выгрузка в датасет](./docs/export-to-dataset.md)
+* [Получить датасет](./docs/get-dataset.md)
+
+### **Изменения**
+
+#### Библиотека **Loginom Pandas Kit**
+
+* Компонент **[get_dummies](./docs/get-dummies.md)**
+
+#### Библиотека **Loginom Sklearn Kit**
+
+* Компонент **[classification metrics](./docs/classification-metrics.md)**
+* Компонент **[clustering metrics](./docs/clustering-metrics.md)**
+* Компонент **[regression metrics](./docs/regression-metrics.md)**
+* Компонент **[roc_auc_score](./docs/roc-auc-score.md)**
+* Компонент **[r2_score](./docs/r2-score.md)**
+* Компонент **[average_precision_score](./docs/average-precision-score.md)**
+* Компонент **[silhouette_score](./docs/silhouette-score.md)**
+
+## 3.2.1 Loginom 7.2.3^
 
 ### **Новый функционал**
 
