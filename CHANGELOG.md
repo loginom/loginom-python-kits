@@ -6,23 +6,23 @@
 
 #### Библиотека **Loginom Clearml Kit**
 
-* [Записать в эксперимент](./docs/save-task.md)
-* [Эксперимент](./docs/task.md)
-* [Environment Variables](./docs/environment-variables.md)
-* [Список экспериментов](./docs/tasks-list.md)
-* [Список датасетов](./docs/datasets-list.md)
-* [Скачать эксперимент](./docs/download-task.md)
-* [Получить артефакт](./docs/get-artifact.md)
-* [Сбор метаданных ML](./docs/ml-metadata.md)
-* [Сбор метаданных ETL](./docs/etl-metadata.md)
-* [Статистика датасетов](./docs/datasets-statistics.md)
-* [Plot.Scatter](./docs/plot-scatter.md)
-* [ETL. Время начала](./docs/etl-start-time.md)
-* [ETL. Подсчет времени](./docs/etl-time-calculation.md)
-* [Новый проект](./docs/new-project.md)
-* [Датасет](./docs/dataset.md)
-* [Выгрузка в датасет](./docs/export-to-dataset.md)
-* [Получить датасет](./docs/get-dataset.md)
+* Компонент **[Записать в эксперимент](./docs/save-task.md)**
+* Компонент **[Эксперимент](./docs/task.md)**
+* Компонент **[Environment Variables](./docs/environment-variables.md)**
+* Компонент **[Список экспериментов](./docs/tasks-list.md)**
+* Компонент **[Список датасетов](./docs/datasets-list.md)**
+* Компонент **[Скачать эксперимент](./docs/download-task.md)**
+* Компонент **[Получить артефакт](./docs/get-artifact.md)**
+* Компонент **[Сбор метаданных ML](./docs/ml-metadata.md)**
+* Компонент **[Сбор метаданных ETL](./docs/etl-metadata.md)**
+* Компонент **[Статистика датасетов](./docs/datasets-statistics.md)**
+* Компонент **[Plot.Scatter](./docs/plot-scatter.md)**
+* Компонент **[ETL. Время начала](./docs/etl-start-time.md)**
+* Компонент **[ETL. Подсчет времени](./docs/etl-time-calculation.md)**
+* Компонент **[Новый проект](./docs/new-project.md)**
+* Компонент **[Датасет](./docs/dataset.md)**
+* Компонент **[Выгрузка в датасет](./docs/export-to-dataset.md)**
+* Компонент **[Получить датасет](./docs/get-dataset.md)**
 
 ### **Изменения**
 
