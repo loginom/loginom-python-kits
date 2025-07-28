@@ -1,5 +1,21 @@
 # История изменений
 
+## 3.2.3 Loginom 7.2.8^
+
+### **Новый функционал**
+
+#### Библиотека **Loginom Misc Kit**
+
+* Компонент **[Мета-данные модуля](./docs/module-metadata.md)**
+* Компонент **[Мета-данные пакета](./docs/package-metadata.md)**
+* Компонент **[Отчет по пакету](./docs/package-report.md)**
+
+### **Изменения**
+
+#### Библиотека **Loginom Sklearn Meta**
+
+* Компонент **[ensemble.ExtraTreesRegressor](./docs/ensemble-extra-trees-regressor.md)**
+
 ## 3.2.2 Loginom 7.2.3^
 
 ### **Новый функционал**

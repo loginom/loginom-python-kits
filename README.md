@@ -1,7 +1,7 @@
 # Loginom Python Kits
 
-* Версия: 3.2.2
-* Проверено: Все редакции Loginom 7.2.3
+* Версия: 3.2.3
+* Проверено: Все редакции Loginom 7.2.8
 
 Набор библиотек компонентов для работы с Python. Область применения библиотек:
 
@@ -63,6 +63,14 @@
 7. `loginom_clearml_kit.lgp` — библиотека с компонентами для интеграции с платформой [ClearML](https://pypi.org/project/clearml/).
 
 > **Требования:** установленная Python-библиотека ClearML версии 1.16.5 и выше.
+
+8. `loginom_misc_kit.lgp` — библиотека с компонентами для внутренних задач Loginom.
+
+> **Требования:** 
+> * установленная Python-библиотека [lxml](https://pypi.org/project/lxml/) версии 5.3.2 и выше;
+> * установленная библиотека [Loginom JSON Kit](https://github.com/loginom/loginom-json-kit);
+> * установленная библиотека [Loginom Silver Kit](https://github.com/loginom/loginom-silver-kit).
+
 ## Прочее
 
 1. `loginom_sklearn_meta.lgp` — пакет с метакомпонентами библиотеки Sklearn Kit. Содержит готовые настроенные компоненты с параметрами для обучения ML-модели компонентом **model.fitter**, а также другие метакомпоненты.
@@ -183,7 +191,10 @@
 * [Новый проект](./docs/new-project.md)
 * [Датасет](./docs/dataset.md)
 * [Выгрузка в датасет](./docs/export-to-dataset.md)
-* [Получить датасет](./docs/get-dataset.md) 
+* [Получить датасет](./docs/get-dataset.md)
 
+## Cписок компонентов библиотеки **Loginom Misc Kit**
 
-
+* [Мета-данные модуля](./docs/module-metadata.md)
+* [Мета-данные пакета](./docs/package-metadata.md)
+* [Отчет по пакету](./docs/package-report.md)
