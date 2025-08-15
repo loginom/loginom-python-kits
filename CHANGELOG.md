@@ -1,5 +1,23 @@
 # История изменений
 
+## 3.2.4 Loginom 7.2.8^
+
+### **Новый функционал**
+
+#### Библиотека **Loginom LightAutoML Kit**
+
+* Компонент **[LAMA.fitter](./docs/lama-fitter.md)**
+* Компонент **[LAMA.scorer](./docs/lama-scorer.md)**
+* Компонент **[LAMA.Параметры](./docs/lama-parameters.md)**
+* Компонент **[LAMA.Итоги](./docs/lama-results.md)**
+
+### **Изменения**
+
+#### Библиотека **Loginom Misc Kit**
+
+* Компонент **[Мета-данные модуля](./docs/module-metadata.md)**
+* Компонент **[Мета-данные пакета](./docs/package-metadata.md)**
+
 ## 3.2.3 Loginom 7.2.8^
 
 ### **Новый функционал**
