@@ -1,6 +1,6 @@
 # Loginom Python Kits
 
-* Версия: 3.2.4
+* Версия: 3.2.5
 * Проверено: Все редакции Loginom 7.2.8
 
 Набор библиотек компонентов для работы с Python. Область применения библиотек:
@@ -74,6 +74,10 @@
 9. `loginom_lightautoml_kit.lgp` — библиотека с компонентами для автоматического построения моделей машинного обучения на базе фреймворка LightAutoML.
 
 > **Требования:** установленная Python-библиотека [LightAutoML](https://pypi.org/project/LightAutoML/) версии 0.4.1 и выше.
+
+10. `loginom_scipy_kit.lgp` — библиотека с компонентами для оптимизации функций, минимизации и подбора параметров моделей.
+
+> **Требования:** установленная python-библиотека [SciPy](https://scipy.org/) версии не ниже 1.15.0.
 
 ## Прочее
 
@@ -209,3 +213,15 @@
 * [LAMA.scorer](./docs/lama-scorer.md)
 * [LAMA.Параметры](./docs/lama-parameters.md)
 * [LAMA.Итоги](./docs/lama-results.md)
+
+## Cписок компонентов библиотеки **Loginom SciPy Kit**
+
+### **optimize**
+
+* [curve_fit](./docs/curve-fit.md)
+
+### **meta**
+
+* [meta-bass](./docs/meta-bass.md)
+* [meta-gompertz](./docs/meta-gompertz.md)
+* [meta-verhulst](./docs/meta-verhulst.md)

@@ -1,5 +1,16 @@
 # История изменений
 
+## 3.2.5 Loginom 7.2.8^
+
+### **Новый функционал**
+
+#### Библиотека **Loginom SciPy Kit**
+
+* Компонент **[curve_fit](./docs/curve-fit.md)**
+* Компонент **[meta-bass](./docs/meta-bass.md)**
+* Компонент **[meta-gompertz](./docs/meta-gompertz.md)**
+* Компонент **[meta-verhulst](./docs/meta-verhulst.md)**
+
 ## 3.2.4 Loginom 7.2.8^
 
 ### **Новый функционал**
