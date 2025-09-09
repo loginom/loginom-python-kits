@@ -26,8 +26,8 @@
 
 #### Библиотека **Loginom Misc Kit**
 
-* Компонент **[Мета-данные модуля](./docs/module-metadata.md)**
-* Компонент **[Мета-данные пакета](./docs/package-metadata.md)**
+* Компонент **[Мета-данные модуля](./docs/module-meta-data.md)**
+* Компонент **[Мета-данные пакета](./docs/package-meta-data.md)**
 
 ## 3.2.3 Loginom 7.2.8^
 

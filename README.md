@@ -203,8 +203,8 @@
 
 ## Cписок компонентов библиотеки **Loginom Misc Kit**
 
-* [Мета-данные модуля](./docs/module-metadata.md)
-* [Мета-данные пакета](./docs/package-metadata.md)
+* [Мета-данные модуля](./docs/module-meta-data.md)
+* [Мета-данные пакета](./docs/package-meta-data.md)
 * [Отчет по пакету](./docs/package-report.md)
 
 ## Cписок компонентов библиотеки **Loginom LightAutoML Kit**
