@@ -1,7 +1,7 @@
 # Loginom Python Kits
 
-* Версия: 3.2.5
-* Проверено: Все редакции Loginom 7.2.8
+* Версия: 3.3.0
+* Проверено: Все редакции Loginom 7.3.1
 
 Набор библиотек компонентов для работы с Python. Область применения библиотек:
 
@@ -203,9 +203,11 @@
 
 ## Cписок компонентов библиотеки **Loginom Misc Kit**
 
-* [Мета-данные модуля](./docs/module-meta-data.md)
-* [Мета-данные пакета](./docs/package-meta-data.md)
+* [Мета-данные модуля](./docs/module-metadata.md)
+* [Мета-данные пакета](./docs/package-metadata.md)
+* [Мета-данные компонентов](./docs/components-metadata.md)
 * [Отчет по пакету](./docs/package-report.md)
+* [Отчет по компонентам](./docs/components-report.md)
 
 ## Cписок компонентов библиотеки **Loginom LightAutoML Kit**
 
